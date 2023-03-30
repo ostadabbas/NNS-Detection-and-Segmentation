@@ -142,7 +142,6 @@ python3 evaluation.py --datasets in-wild --agg_methods simple average --result_d
 Here is the BibTeX citation for our [paper](https://arxiv.org/abs/2303.16867):
 
 ```
-
 @misc{zhu_video-based_2023,
 	title = {A {Video}-based {End}-to-end {Pipeline} for {Non}-nutritive {Sucking} {Action} {Recognition} and {Segmentation} in {Young} {Infants}},
 	url = {http://arxiv.org/abs/2303.16867},
@@ -152,7 +151,6 @@ Here is the BibTeX citation for our [paper](https://arxiv.org/abs/2303.16867):
 	year = {2023},
 	note = {arXiv:2303.16867 [cs]}
 }
-
 ```
 
 
