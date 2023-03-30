@@ -2,7 +2,7 @@
 
 This is the official code repository for our paper, introducing a computer vision based detector for infant non-nutritive sucking (NNS):
 
-Zhu, S., Wan, M., Hatamimajoumerd, E., Jain, K., Zlota, S., Kamath, C.V., Rowan, C.B., Grace, E., Goodwin, M.S., Hayes, M.J., Schwartz-Mette, R.A., Zimmerman, E., Ostadabbas, S., "A Video-based End-to-end Pipeline for Non-nutritive Sucking Action  Recognition and Segmentation in Young Infants." Preprint, [arXiv:XXXX.XXXXX [cs.CV]](https://arxiv.org), 2023.
+Zhu, S., Wan, M., Hatamimajoumerd, E., Jain, K., Zlota, S., Kamath, C.V., Rowan, C.B., Grace, E., Goodwin, M.S., Hayes, M.J., Schwartz-Mette, R.A., Zimmerman, E., Ostadabbas, S., "A Video-based End-to-end Pipeline for Non-nutritive Sucking Action  Recognition and Segmentation in Young Infants." Preprint, arXiv:2303.16867 [cs.CV], 2023. [[arXiv link](https://arxiv.org/abs/2303.16867)]
 
 A quick-start guide is available for those who just want to get predicted NNS segmentation results from a video, using our pretrained model, with no machine learning training necessary.
 
@@ -139,10 +139,20 @@ python3 evaluation.py --datasets in-wild --agg_methods simple average --result_d
 ## BibTeX Citation
 <a name="bibtex"></a>
 
-Here is the BibTeX citation for our work:
+Here is the BibTeX citation for our [paper](https://arxiv.org/abs/2303.16867):
 
 ```
-[Forthcoming.]
+
+@misc{zhu_video-based_2023,
+	title = {A {Video}-based {End}-to-end {Pipeline} for {Non}-nutritive {Sucking} {Action} {Recognition} and {Segmentation} in {Young} {Infants}},
+	url = {http://arxiv.org/abs/2303.16867},
+	publisher = {arXiv},
+	author = {Zhu, Shaotong and Wan, Michael and Hatamimajoumerd, Elaheh and Jain, Kashish and Zlota, Samuel and Kamath, Cholpady Vikram and Rowan, Cassandra B. and Grace, Emma C. and Goodwin, Matthew S. and Hayes, Marie J. and Schwartz-Mette, Rebecca A. and Zimmerman, Emily and Ostadabbas, Sarah},
+	month = mar,
+	year = {2023},
+	note = {arXiv:2303.16867 [cs]}
+}
+
 ```
 
 
