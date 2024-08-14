@@ -150,6 +150,15 @@ Here is the BibTeX citation for our [paper](https://arxiv.org/abs/2303.16867):
 	month = mar,
 	year = {2023},
 	note = {arXiv:2303.16867 [cs]}
+
+@article{zhu2024subtle,
+  title={Subtle signals: Video-based detection of infant non-nutritive sucking as a neurodevelopmental cue},
+  author={Zhu, Shaotong and Wan, Michael and Manne, Sai Kumar Reddy and Hatamimajoumerd, Elaheh and Hayes, Marie J and Zimmerman, Emily and Ostadabbas, Sarah},
+  journal={Computer Vision and Image Understanding},
+  pages={104081},
+  year={2024},
+  publisher={Elsevier}
+}
 }
 ```
 
