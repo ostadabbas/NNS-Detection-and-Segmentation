@@ -4,6 +4,8 @@ This is the official code repository for our paper, introducing a computer visio
 
 Zhu, S., Wan, M., Hatamimajoumerd, E., Jain, K., Zlota, S., Kamath, C.V., Rowan, C.B., Grace, E., Goodwin, M.S., Hayes, M.J., Schwartz-Mette, R.A., Zimmerman, E., Ostadabbas, S., "A Video-based End-to-end Pipeline for Non-nutritive Sucking Action  Recognition and Segmentation in Young Infants." MICCAI'23. Preprint, arXiv:2303.16867 [cs.CV], 2023. [[arXiv link](https://arxiv.org/abs/2303.16867)]
 
+Zhu, S., Wan, M., Manne, S. K. R., Hatamimajoumerd, E., Hayes, M. J., Zimmerman, E., & Ostadabbas, S. (2024). Subtle signals: Video-based detection of infant non-nutritive sucking as a neurodevelopmental cue. Computer Vision and Image Understanding, 104081. [[paper link](https://www.sciencedirect.com/science/article/pii/S1077314224001620)]
+
 A quick-start guide is available for those who just want to get predicted NNS segmentation results from a video, using our pretrained model, with no machine learning training necessary.
 
 #### Table of contents
